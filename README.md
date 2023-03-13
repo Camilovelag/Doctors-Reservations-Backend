@@ -85,7 +85,10 @@
 
 ## 🚀 Live Demo
 
-[Live Demo here.](https://doctors-reservations-rily.onrender.com/api-docs/index.html)
+Live demo [here.](https://doctors-reservations-rily.onrender.com/api-docs/index.html)
+
+Check out a front-end live demo which consumes this API [here.](https://doctors-reservations.netlify.app/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
