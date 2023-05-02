@@ -240,7 +240,7 @@ paths:
               required:
                 - user_name
 servers:
-  - url: http://127.0.0.1:3000/api/v1/
+  - url: https://autumn-wood-4029.fly.dev/api/v1/
     variables:
       defaultHost:
-        default: 127.0.0.1:3000/api/v1/
+        default: https://autumn-wood-4029.fly.dev/api/v1/
