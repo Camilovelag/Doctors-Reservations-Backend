@@ -85,9 +85,9 @@
 
 ## 🚀 Live Demo
 
-Live demo [here.](https://doctors-reservations-rily.onrender.com/api-docs/index.html)
+Live demo [here.](https://autumn-wood-4029.fly.dev/api-docs/index.html)
 
-Check out a front-end live demo which consumes this API [here.](https://doctors-reservations.netlify.app/)
+Check out a front-end live demo which consumes this API [here.](https://doctor-reservations.netlify.app/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -191,7 +191,7 @@ You can deploy this project using:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Cesar Alberto Valencia Aguilar**
+👤 **Cesar Valencia**
 
 - GitHub: [@cvalencia1991](https://github.com/cvalencia1991)
 - Twitter: [@cvalenciaguilar](https://twitter.com/cvalenciaguilar)
