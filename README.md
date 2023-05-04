@@ -107,7 +107,7 @@ The 4 members of the project team are:
 
 ## Doctors Reservations Front-End
 
-[Front End App](https://github.com/JonahKayizzi/doctors-reservations-frontend.git)
+[Front End App](https://github.com/Camilovelag/doctors-reservations-frontend)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
